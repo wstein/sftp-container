@@ -1,5 +1,7 @@
 # Sample container for sftp
 
+TODO: add password or authorized_keys
+
 ## build
 
 ```bash
